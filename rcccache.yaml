@@ -1,4 +1,5 @@
 credentials: {}
-stamps: {}
+stamps:
+  rcc.cli.tz: 1717437422
 users:
 - desktop-l0gppd8\ewa kiela

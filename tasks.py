@@ -136,4 +136,4 @@ def order_another_robot():
 def archive_receipts():
     """Creates the ZIP archive with all PDF files."""
     archive = Archive()
-    archive.archive_folder_with_zip(folder='output', include='*.pdf', archive_name='receipts_files.zip')
+    archive.archive_folder_with_zip(folder='output', include='*.pdf', archive_name='output/receipts_files.zip')
