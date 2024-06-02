@@ -1,0 +1,1 @@
+{"version":"v17.28.4","when":1717344476,"what":"variables","force":false,"build":false,"success":false,"retry":false,"run":false,"controller":"RobocorpCode","space":"vscode-01","blueprint":"90a5c8c5c51de809","started":0.421,"prepared":0,"micromamba":0,"pip":0,"postinstall":0,"record":0,"restore":19.115,"prerun":0,"robotstart":0,"robotend":0,"finished":19.143,"dirtyness":7.7}
